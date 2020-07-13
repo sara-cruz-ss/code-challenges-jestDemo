@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "nodemon --watch 'src//*/*.ts' --exec \"ts-node\" src/listen.ts",
     "build": "tsc",
-    "start": "node dist/listen.js",
+    "start": "node dist/2018.js",
     "test": "npx jest"
   },
   "devDependencies": {
